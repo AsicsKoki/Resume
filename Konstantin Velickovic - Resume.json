@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Konstantin Velickovic",
+    "label": "Web developer",
+    "picture": "",
+    "email": "cpt.koki@gmail.com",
+    "phone": "+381 69 566 0 558",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Macvanska 14a",
+      "postalCode": "18000",
+      "city": "Nis",
+      "countryCode": "Serbia",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "TrueDash",
+      "position": "Web developer",
+      "website": "truedash.io",
+      "startDate": "03/2014",
+      "endDate": "08/2014",
+      "summary": "Business Intelligence single-page web site development using AngularJS.",
+      "highlights": []
+    },
+    {
+      "company": "United Green Energy",
+      "position": "Back end developer",
+      "website": "",
+      "startDate": "05/2014",
+      "endDate": "09/2014",
+      "summary": "- Developing a system for monitoring and tracking energy consumption of households and  manufacturing facilities",
+      "highlights": []
+    },
+    {
+      "company": "Eton Digital",
+      "position": "Junior PHP developer",
+      "website": "http://www.etondigital.com/",
+      "startDate": "10/2014",
+      "endDate": "01/2015",
+      "summary": "- In charge of developing website functionalities using symfony2 framework and  a wide array of tools  and programming languages.",
+      "highlights": []
+    },
+    {
+      "company": "Good Game Network",
+      "position": "CEO/Developer",
+      "website": "",
+      "startDate": "01/2015",
+      "endDate": "08/2015",
+      "summary": "- Leading an 8 man team and coordinating development. In charge of business development, fundraising and recruiting. Helped with software development.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Open Club (Native: Otvoreni Klub)",
+      "position": "",
+      "website": "http://www.oknis.org.rs/en/",
+      "startDate": "02/2009",
+      "endDate": "03/2011",
+      "summary": "I helped organize cultural workshops for local kids, as well as multiple charity events.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETS \"Mija Stanimirović\"",
+      "area": "Niš, Serbia",
+      "studyType": "Telecommunications technician",
+      "startDate": "09/2008",
+      "endDate": "06/2012",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "Laravel",
+        "AngularJS",
+        "MySql"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Serbian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent spoken and written English"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
